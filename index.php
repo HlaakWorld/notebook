@@ -101,6 +101,10 @@
                   periodically for any changes. We will
                   notify you of any changes by posting the new Privacy Policy on
                   this page.
-                </p> <p> </body>
+                </p> <p>This policy is effective as of 2021-01-07</p> <p><strong>Contact Us</strong></p> <p>
+                  If you have any questions or suggestions about our
+                  Privacy Policy, do not hesitate to contact us at hlaakworldza@gmail.com.
+                </p> <p>
+        </body>
     </html>
       
